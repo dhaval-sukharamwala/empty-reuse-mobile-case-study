@@ -199,11 +199,6 @@ needs to read precisely — request IDs (`MLST1079041`), container numbers
 - A fast, photo-first way to raise and approve reuse requests.
 - Transparent, itemised payment that closes the loop in-app.
 
-## Links
-
-- **▶ Live, interactive case study:** https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/
-- **Behance:** https://www.behance.net/your-handle
-
 ---
 
 <sub>Designed by Dhaval Sukharamwala · Product Design · 2026</sub>
