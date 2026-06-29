@@ -6,8 +6,6 @@
 
 <p>
   <a href="https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/"><img src="https://img.shields.io/badge/▶_View_live_case_study-1B22FF?style=for-the-badge&logoColor=white" alt="Live case study"></a>
-  <a href="https://www.behance.net/your-handle"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 ![Empty Reuse — cover](emptyreuse-cover.jpg)
